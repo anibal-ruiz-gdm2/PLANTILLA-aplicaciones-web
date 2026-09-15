@@ -24,7 +24,6 @@
 - HTML 
 + CSS
 * JavaScript
-* Python
 
 
 ### LISTA ORDENADA
@@ -45,3 +44,11 @@
 
 - [ ] Tarea pendiente
 - [x] Tarea completa
+
+### Codigo en frase
+
+Usa `git status` para ver el estado del repositorio.
+
+### Bloque de codigo
+```python
+println("hola mundo")
